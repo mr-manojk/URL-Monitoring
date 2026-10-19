@@ -43,7 +43,7 @@ flowchart TD
 ### 1. Install
 
 ```bash
-git clone https://github.com/<your-username>/form-checker.git
+git clone https://github.com/mr-manojk/URL-Monitoring.git
 cd form-checker
 pip install -r requirements.txt
 ```
