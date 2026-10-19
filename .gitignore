@@ -1,0 +1,17 @@
+# Secrets: never commit your real config (contains passwords)
+config.ini
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
